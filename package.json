@@ -1,5 +1,5 @@
 {
-  "name": "check weather",
+  "name": "node-js-check-weather",
   "version": "1.0.0",
   "description": "this is first project on node.js",
   "main": "index.js",
